@@ -1,2 +1,2 @@
 # C-1
-premeir projet en C++
+premier projet en C++
